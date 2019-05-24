@@ -1,0 +1,39 @@
+title: Guilherme Sponda # your name (or website title) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Software Engineer with knowledge of DevOps and Data Engineer. 
+  Experience with Cloud Computing architecture with experience of working at IT consultancy company. 
+  Always trying to improve my knowledge and myself.
+  <br><br>
+  • Experience with Data Engineering;
+  <br>
+  • Experience with DevOps and Cloud Computing;
+  <br>
+  • Experience with System Development;
+  <br>
+  • Basics knowledge of Digital image processing;
+  <br><br>
+  Tools:
+  <br>
+  • Software Languages: Python, Java, Golang;
+  <br>
+  • IT Automation: Jenkins, Ansible;
+  <br>
+  • Other Tools: Docker, Kubernetes, Git;
+  <br>
+  • OS: Linux;
+  <br><br>
+  Personal Skills:
+  <br>
+  • Technology passionate;
+  <br>
+  • Multi-instrumentalist musician;
+  <br>
+  • Skate and Surf passionate;
+  <br><br>
+  <a href="https://www.linkedin.com/in/guilhermesponda/">View My LinkedIn Profile</a> 
+  <br><br>
+  <a href="https://www.github.com/g-sponda/">View My Github Profile</a> 
+  
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
